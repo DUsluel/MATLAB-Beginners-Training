@@ -1,4 +1,10 @@
 This folder contains the summary notes about the topics covered in the workshop.
 The notes can be opened on MATLAB as livescripts.
 
+I would advise you to go through the files in the following order:
+1. Intro2MATLAB
+2. ImportData
+3. Loops
+4. Making Choices
+
 If you have any version of MATLAB befor 2016a and can not open livescript files please contact me.
